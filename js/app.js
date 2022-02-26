@@ -1,5 +1,5 @@
 const app = new Vue({
-    el: 'section',
+    el: '#app',
   
     data:{
   
